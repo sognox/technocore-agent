@@ -1,1 +1,2 @@
-did:key:z6MkmLXjRBR1LJK2N17LKw5ssUTJXubi2vzFXAH9RWkEcuQt # technocore-agent
+ # technocore-agent
+did:key:z6MkmLXjRBR1LJK2N17LKw5ssUTJXubi2vzFXAH9RWkEcuQt
